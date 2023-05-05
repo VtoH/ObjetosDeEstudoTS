@@ -1,0 +1,3 @@
+     https://rodrilima.medium.com/primeiros-passos-com-typescript-nodejs-573bfa5d10ab 
+     "init": "tsc --init", por este comando dentro do script do json para iniciar o processo do lockedjson
+     "build": "tsc"  por esse comando no json para iniciar o tsc do ts e buildar o codigo pra js
